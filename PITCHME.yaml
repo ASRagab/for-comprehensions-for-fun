@@ -1,5 +1,4 @@
 stealth : stash
 highlight : pojoaque
-theme: moon
 theme-override: assets/css/PITCHME.css
 transition : fade

@@ -18,27 +18,23 @@ span.fa-byline { color : gray; }
   }
 
 .reveal pre {
-  width: 120%;
-  margin-left: -10%;
-}
-
-.reveal table {
-  width: 130%;
-  margin-left: -15%;
+  width: 110%;
+  margin-left: -5%;
 }
 
 .reveal h1 {
-  font-size: 1.55em
+  font-size: 1.45em
 }
 
 .reveal h2 {
-  font-size: 1.35em
+  font-size: 1.25em
 }
 
 .reveal h3 {
-  font-size: 1.15em
+  font-size: 1.05em
 }
 
+/* 
 .reveal li {
   font-size: 70%
-}
+} */
